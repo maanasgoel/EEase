@@ -8,6 +8,8 @@ EEase (Electrical Engineering Assistant Suite) is a local, agentic workbench for
 
 Unlike a simple LLM chat, EEase executes real tools locally, saves artifacts with absolute paths, and cites sources. You keep full control of data and workflows.
 
+The source code is private. I'm happy to walk through it on request.
+
 ---
 
 ## Table of Contents
